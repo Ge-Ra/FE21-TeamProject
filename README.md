@@ -1,55 +1,44 @@
-# Projects-Front-End_Team5_Project-C
-Project C – Photographer’s Website – Convention file
-Team Members: Gera, Felix, Martin, Cristiana
+Photographer’s webpage 
 
-1.	Scope: create a website for a professional photographer
+For this project, you will create a Photographer’s webpage. The main target for this endeavour is to show the portfolio and make an easy and effective contact page for the customer to contact the Photographer. 
 
-2.	Tasks:
-Navbar (Home, About, Testimonials, Contact)
-Hero section 
-Container: Portfolio (image gallery), Price cards (packages), Customer Feedback
-Footer: Bootstrap Media +  Company name
+The webpage should have: 
 
-3.	Technologies:
--	HTML
--	CSS3
--	TypeScript
--	Angular
+Navbar 
 
-       4. Website layout:
-- Angular components: navbar, about, testimonials, contact, portfolio, footer, hero
-- Navbar containing Home, About, Testimonials, Portfolio and Contact (displayed on all pages)
-- Home: Hero Section (containing BS image carousel) and image gallery
-- Portfolio: image gallery + price button (links to Contact)
-- Testimonials: awards section + customer reviews
-- About: text + img
-- Contact: text + contact form
+You can choose what kind of navbar you want to use. 
 
+Landing image 
 
-5.	GitHub repo: 
-GitHub - MartinM7/Projects-Front-End_Team5_Project-C
+How to use the Hero’s image section is up to you. Be impactant though. 
 
-6.	Resources:
--	BS templates 
-https://frontendworkshop.com/courses/bootstrap-5-responsive-web-design-and-development/projects/small-business-website/overview/#desktop
+Portfolio 
 
-https://frontendworkshop.com/courses/bootstrap-5-responsive-web-design-and-development/projects/landing-page/overview/#desktop
+That’s the main section in the webpage. Try to find the best way to show customers the Photographers work. The pictures attached to the project can be used to this section. Be creative, remember that a Photographer work doesn't necessarily follow only one theme. 
 
-https://frontendworkshop.com/courses/bootstrap-5-responsive-web-design-and-development/projects/knowledge-base/overview/#desktop
-10:00
-https://frontendworkshop.com/courses/bootstrap-5-responsive-web-design-and-development/projects/resume-and-cv-page/overview/#desktop
+Awards(Optional) 
 
-Images:
-Dariusz Sankowski (@dariuszsankowski) | Unsplash Photo Community
+Has the Photographer any awards or certificates? Essential to be displayed. 
 
-Lipsum generator:
-https://hipsum.co/
-Lorem Ipsum - All the facts - Lipsum generator
+Bio/About 
 
-Fonts:
-font-family: 'Playfair Display', serif;
+Bio/About page, apart from the portfolio, the bio could help to keep the interest of the customer, empathy is a powerful weapon. 
 
-Color Scheme:
-Navbar
-bg color: black
-font color: white
+Testimonials 
+
+The best way to conquer somebody's trust, the opinion of a third person...  
+
+Customers 
+
+If the Photographer has ever made any job for en Enterprise, it should be shown too. 
+
+Contact/Register 
+
+Create a contact page to connect customers and Photographer. 
+
+Media 
+
+Very important to have icons to social media. (Please note that the icons wont have any link).
+
+Requirements: Website must be fully responsive (you are allowed to use 100% free theme elements if they are without any copyrighted restrictions and of course you must implement them in combination with your styles - using just prepared theme without your styles is not allowed). You are allowed to divide the page into sections, but it must have at least 3 more independent pages apart from the index page. The example below can be taken as an inspiration but we encourage you to create your own style. 
+
